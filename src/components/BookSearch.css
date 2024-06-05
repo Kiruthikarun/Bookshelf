@@ -1,0 +1,30 @@
+.book-search-page {
+  position: relative;
+  text-align: center;
+  padding: 5px;
+}
+
+input {
+  width: 15%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #000;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color:green;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 14px;
+  margin: 10px 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+

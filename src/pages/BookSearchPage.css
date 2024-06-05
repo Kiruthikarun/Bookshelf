@@ -1,0 +1,22 @@
+.book-search-page {
+  position: relative;
+  text-align: center;
+  padding: 20px;
+}
+
+.bookshelf-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.bookshelf-button:hover {
+  background-color: #45a049;
+}
